@@ -12,6 +12,6 @@ pip install -r requirements.txt
 ```
 streamlit run main.py 
 ``` 
-## output visulization
+## output visualization
    
    ![alt text](<Screenshot 2025-05-04 185731.png>)
